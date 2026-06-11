@@ -1,0 +1,60 @@
+import type { Certification } from "@/types";
+
+export const certifications: Certification[] = [
+  {
+    id: "79958aab8b99",
+    title: "Software Engineer",
+    issuer: "HackerRank",
+    date: "Jun 2026",
+    image: "/certs/hackerrank-software-engineer.png",
+    verifyUrl: "https://www.hackerrank.com/certificates/79958aab8b99",
+  },
+  {
+    id: "2feb54776c9d",
+    title: "Frontend Developer (React)",
+    issuer: "HackerRank",
+    date: "Jun 2026",
+    image: "/certs/hackerrank-frontend-react.png",
+    verifyUrl: "https://www.hackerrank.com/certificates/2feb54776c9d",
+  },
+  {
+    id: "4b88d0d40c62",
+    title: "SQL (Advanced)",
+    issuer: "HackerRank",
+    date: "Jun 2026",
+    image: "/certs/hackerrank-sql-advanced.png",
+    verifyUrl: "https://www.hackerrank.com/certificates/4b88d0d40c62",
+  },
+  {
+    id: "6c42d3f1a618",
+    title: "Angular (Intermediate)",
+    issuer: "HackerRank",
+    date: "Jun 2026",
+    image: "/certs/hackerrank-angular-intermediate.png",
+    verifyUrl: "https://www.hackerrank.com/certificates/6c42d3f1a618",
+  },
+  {
+    id: "7e0727bf4c8a",
+    title: "Rest API (Intermediate)",
+    issuer: "HackerRank",
+    date: "Jun 2026",
+    image: "/certs/hackerrank-rest-api-intermediate.png",
+    verifyUrl: "https://www.hackerrank.com/certificates/7e0727bf4c8a",
+  },
+  {
+    id: "044481f5c125",
+    title: "Python (Basic)",
+    issuer: "HackerRank",
+    date: "Jun 2026",
+    image: "/certs/hackerrank-python-basic.png",
+    verifyUrl: "https://www.hackerrank.com/certificates/044481f5c125",
+  },
+  {
+    id: "fa7ed564e4a2",
+    title: "JavaScript (Basic)",
+    issuer: "HackerRank",
+    date: "Jun 2026",
+    image: "/certs/hackerrank-javascript-basic.png",
+    verifyUrl: "https://www.hackerrank.com/certificates/fa7ed564e4a2",
+  },
+];

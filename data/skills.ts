@@ -18,13 +18,11 @@ export const skillCategories: SkillCategory[] = [
     accent: "blue",
     skills: [
       { name: "HTML", iconSlug: "html5", iconColor: "E34F26" },
-      { name: "CSS", iconSlug: "css3", iconColor: "1572B6" },
+      { name: "CSS", iconSlug: "css", iconColor: "1572B6" },
       { name: "JavaScript", iconSlug: "javascript", iconColor: "F7DF1E" },
       { name: "React", iconSlug: "react", iconColor: "61DAFB" },
       { name: "Next.js", iconSlug: "nextdotjs", iconColor: "FFFFFF" },
       { name: "Tailwind", iconSlug: "tailwindcss", iconColor: "06B6D4" },
-      { name: "Bootstrap", iconSlug: "bootstrap", iconColor: "7952B3" },
-      { name: "Material UI", iconSlug: "mui", iconColor: "007FFF" },
     ],
   },
   {

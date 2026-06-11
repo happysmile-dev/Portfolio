@@ -30,6 +30,15 @@ export type Project = {
   liveUrl?: string;
 };
 
+export type Certification = {
+  id: string;
+  title: string;
+  issuer: string;
+  date: string;
+  image: string;
+  verifyUrl: string;
+};
+
 export type ExperienceItem = {
   role: string;
   company: string;

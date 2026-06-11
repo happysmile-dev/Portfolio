@@ -13,8 +13,9 @@ export const siteConfig = {
     "Full Stack Engineer",
     "Technology Partner",
   ],
-  resumeUrl: "/resume.pdf",
-  email: "hello@example.com",
+  resumeUrl: "/Kaito_Yamamoto_Resume.docx",
+  email: "5.5.genji.focus@gmail.com",
+  githubUrl: "https://github.com/happysmile-dev",
 };
 
 export const navLinks: NavLink[] = [
